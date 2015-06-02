@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: NongDaBang
+title: 农大帮
 url: http://nongdabang.com
 feed: /atom.xml
 author_info: <a href="http://nongdabang.com/">TongChen</a>
