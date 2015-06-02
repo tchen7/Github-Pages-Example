@@ -31,7 +31,7 @@ description: 特别鸣谢龙飞的精彩表演
 **说起集体语音**
 
 的确提上了日程，虽然已经是3年之后的事情了。3年后大家针对尹力相亲的问题展开了讨论。由于存在时差，讨论是在一阵阵午饭香气中进行的。期待下次。大家要保重身体吃好喝好！
-![Longfei](http://phdwith.me/wp-content/uploads/2015/06/IMG_20141208_211917529.jpg)
+![Longfei](http://phdwith.me/wp-content/uploads/2015/06/IMG_20141208_211917529.jpg = 400x)
 
 ----
 
