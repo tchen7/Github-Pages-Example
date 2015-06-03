@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div class="index-content project">
+<div class="index-content photos">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
-            <li><a href="/opinion"><span>Opinion</span></a></li>
+            <li><a href="/news"><span>News</span></a></li>
             <li class="on"><a href="/photos"><span>Photos</span></a></li>
         </ul>
 
