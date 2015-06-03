@@ -144,7 +144,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .home-contact a { width:30px; display:inline-block; }
 .home-contact img { width:18px; }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 750px; min-width: 100px;){
     body {font-size:14px;}
     #content {width:85%;margin:100px auto 50px; }
 
